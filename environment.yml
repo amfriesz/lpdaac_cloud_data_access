@@ -15,7 +15,7 @@ dependencies:
   - numpy
   - pandas
   - pystac-client
-  - python
+  - python=3.9
   - rasterio
   - rioxarray
   - shapely
