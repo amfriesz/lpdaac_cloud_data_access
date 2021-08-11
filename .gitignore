@@ -1,4 +1,5 @@
 *netrc
 *.ipynb_checkpoints
 notebooks/dask-worker-space/
-Direct_S3_Access_with_rioxarray.ipynb
+data/*.txt
+data/*.vrt
