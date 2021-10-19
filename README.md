@@ -10,6 +10,10 @@ This repository contains a series of Jupyter Notebooks, written in Python, demon
 
 > **Note:** The notebooks found in this repository rely on packages, APIs, and specifications that are under active development. Changes to these dependencies can cause breaking changes to the code in the notebooks. The author(s) will endeavor to update the notebooks as changes are identified and/or encountered.
 
+### Participation Options
+[Launch Interactive Notebooks](https://openscapes.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famfriesz%2Flpdaac_cloud_data_access&urlpath=lab%2Ftree%2Flpdaac_cloud_data_access%2F&branch=main)
+[View Static Notebooks](https://nbviewer.org/github/amfriesz/lpdaac_cloud_data_access/tree/main/notebooks/)
+
 ## Assumptions
 
 ### User has an Earthdata Login Profile
